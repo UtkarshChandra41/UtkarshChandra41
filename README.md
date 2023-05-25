@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend web-development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects related to web-development
-- 📫 How to reach me via email-utkarshchandra41@gmail.com
+- 📫 How to reach me via email- utkarshchandra41@gmail.com
 
 👋 Hello there! I'm a passionate frontend developer with a knack for crafting visually stunning 
 and user-friendly web experiences.
